@@ -1,6 +1,6 @@
-#Long Term Assignment (LTA) Checklist#
+# Long Term Assignment (LTA) Checklist
 
-###Financial###
+### Financial
 * Get financial agreement for LTA
 * Complete necessary tax forms (P85, R105)
 * Find out about pension contributions
@@ -8,11 +8,11 @@
 * Find an accountant
 * Set up global bank account (HSBC?)
 
-###Legal###
+### Legal
 * Draft a will
 * Setup power of attorney
 
-###Flat###
+### Flat
 * Organise rental while you're away (rental and management agency)
 * Fix cosmetic issues
 * Super clean ready for new tenants
@@ -29,7 +29,7 @@
 * Create an inventory
 * Eat up / distribute food
 
-###Belongings###
+### Belongings
 * Use this as an excuse for a clear out
 * Organise storage for things you're not taking
 * Pack what you're taking
@@ -37,7 +37,7 @@
 * Send belongings ahead (delayed timing)
 * Decide whether to take additional belongings e.g. bike
 
-###Notifications###
+### Notifications
 * Mortgage company
 * Freeholder
 * Social Security Office
@@ -45,7 +45,7 @@
 * Department of Work & Pensions
 * GP
 
-###Logistics###
+### Logistics
 * Get a book about the place you're moving to
 * Get post redirected
 * Register for postal vote
@@ -54,18 +54,18 @@
 * Passport up to date
 * Confirm worldwide travel insurance
 
-###Health###
+### Health
 * GP MOT checkup
 * Get refills for any prescriptions
 * Obtain a copy of necessary medical records
 * Dentist appointment
 * Dental hygienist appointment
 
-###With Work###
+### With Work
 * Book flights
 * Sort visa
 * Build file with hard copies of paperwork
 * Create online file with soft copies of paperwork - e.g. dropbox
 * Training budget, holiday accrual
 
-###PARTY!###
+### PARTY!
